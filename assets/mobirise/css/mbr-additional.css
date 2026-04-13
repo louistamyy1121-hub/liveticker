@@ -1044,53 +1044,50 @@ a {
     padding-right: 4rem;
   }
 }
-.cid-vgakAsLTpr {
+.cid-vgFfObVG3X {
   display: flex;
-  background-image: url("../../../assets/images/babymonster-4k-wallpaper-4096x2564.jpg");
+  background-image: url("../../../assets/images/screenshot202026-04-1320at206.22.10e280afpm-2000x1077.png");
 }
-.cid-vgakAsLTpr .mbr-overlay {
+.cid-vgFfObVG3X .mbr-overlay {
   background-color: #000000;
   opacity: 0.5;
 }
 @media (min-width: 768px) {
-  .cid-vgakAsLTpr {
+  .cid-vgFfObVG3X {
     align-items: flex-end;
   }
-  .cid-vgakAsLTpr .row {
+  .cid-vgFfObVG3X .row {
     justify-content: center;
   }
-  .cid-vgakAsLTpr .content-wrap {
+  .cid-vgFfObVG3X .content-wrap {
     padding: 1rem 3rem;
   }
 }
 @media (max-width: 991px) and (min-width: 768px) {
-  .cid-vgakAsLTpr .content-wrap {
+  .cid-vgFfObVG3X .content-wrap {
     min-width: 50%;
   }
 }
 @media (max-width: 767px) {
-  .cid-vgakAsLTpr {
+  .cid-vgFfObVG3X {
     -webkit-align-items: center;
     align-items: flex-end;
   }
-  .cid-vgakAsLTpr .mbr-row {
+  .cid-vgFfObVG3X .mbr-row {
     -webkit-justify-content: center;
     justify-content: center;
   }
-  .cid-vgakAsLTpr .content-wrap {
+  .cid-vgFfObVG3X .content-wrap {
     width: 100%;
   }
 }
-.cid-vgakAsLTpr .mbr-section-title,
-.cid-vgakAsLTpr .mbr-section-subtitle {
+.cid-vgFfObVG3X .mbr-section-title,
+.cid-vgFfObVG3X .mbr-section-subtitle {
   text-align: center;
 }
-.cid-vgakAsLTpr .mbr-text,
-.cid-vgakAsLTpr .mbr-section-btn {
+.cid-vgFfObVG3X .mbr-text,
+.cid-vgFfObVG3X .mbr-section-btn {
   text-align: center;
-}
-.cid-vgakAsLTpr .mbr-section-title {
-  color: #ffd7ef;
 }
 .cid-vgxVmqFK1y {
   padding-top: 6rem;
